@@ -16,6 +16,7 @@ header h1 {
   background: linear-gradient(40deg, #ea00ff, #ea00ff, #03d5ff, #03d5ff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  background-clip: text;
   filter: drop-shadow(0 2px 8px rgba(0, 0, 0, 0.5));
 }
 
