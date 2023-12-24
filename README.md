@@ -18,5 +18,6 @@ This project will showcase the core concept of React essentials.
 ## 🛠️ Technologies & Techniques:
 
 - React
+- JavaScript
 
 **`Shoutout to Maximilian Schwarzmüller for this project and React course in Udemy.`**
