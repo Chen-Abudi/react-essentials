@@ -19,6 +19,7 @@ This project will showcase the core concept of React essentials.
 
 - React
 - JavaScript
+- State Management
 
 ---
 
