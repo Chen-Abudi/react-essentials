@@ -20,4 +20,6 @@ This project will showcase the core concept of React essentials.
 - React
 - JavaScript
 
+---
+
 **`Shoutout to Maximilian Schwarzmüller for this project and React course in Udemy.`**
