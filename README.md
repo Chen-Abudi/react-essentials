@@ -13,7 +13,7 @@ Developed by Grace Chen Abudi 👩🏽‍💻
 
 ## 🔎 Intro:
 
-This project will showcase the core concept of React essentials.
+This is a practice project that will showcase the core concept of React essentials.
 
 ## 🛠️ Technologies & Techniques:
 
