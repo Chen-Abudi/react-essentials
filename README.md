@@ -2,8 +2,6 @@
 
 Developed by Grace Chen Abudi 👩🏽‍💻
 
-**_`To Be Continued`_**
-
 ## 📢 Overview:
 
 - Intro
@@ -20,6 +18,7 @@ This is a practice project that will showcase the core concept of React essentia
 - React
 - JavaScript
 - State Management
+- React Core Concepts
 
 ---
 
