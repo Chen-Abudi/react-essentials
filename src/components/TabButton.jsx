@@ -1,9 +1,11 @@
-function TabButton({ children, onClick }) {
+function TabButton({ children, onClick, isClicked }) {
   console.log("Tab component rendering");
 
   return (
     <li>
-      <button onClick={onClick}>{children}</button>
+      <button className={isClicked ? "active" : undefined} onClick={onClick}>
+        {children}
+      </button>
     </li>
   );
 }
