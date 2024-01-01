@@ -8,9 +8,7 @@ function App() {
   const [selectedTopic, setSelectedTopic] = useState();
 
   function handleClick(clickedButton) {
-    // clickedButton => 'components', 'jsx', 'props', 'state'
     setSelectedTopic(clickedButton);
-    // console.log(selectedTopic);
   }
 
   console.log("App component rendering");
@@ -70,16 +68,6 @@ function App() {
             </TabButton>
           </menu>
           {tabContent}
-          {/* {!selectedTopic && <p>Please select a topic.</p>} */}
-          {/* {selectedTopic && (
-            <div id="tab-content">
-              <h3>{EXAMPLES[selectedTopic].title}</h3>
-              <p>{EXAMPLES[selectedTopic].description}</p>
-              <pre>
-                <code>{EXAMPLES[selectedTopic].code}</code>
-              </pre>
-            </div>
-          )} */}
         </section>
       </main>
     </div>
