@@ -1,6 +1,7 @@
 import { useState } from "react";
 
 import TabButton from "./TabButton.jsx";
+import Section from "./Section.jsx";
 import { EXAMPLES } from "../data.js";
 
 function Examples() {
@@ -25,7 +26,7 @@ function Examples() {
   }
 
   return (
-    <section id="examples">
+    <Section id="examples">
       <h2>Examples</h2>
       <menu>
         <TabButton
@@ -54,7 +55,7 @@ function Examples() {
         </TabButton>
       </menu>
       {tabContent}
-    </section>
+    </Section>
   );
 }
 
