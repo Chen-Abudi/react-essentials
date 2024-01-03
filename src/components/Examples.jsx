@@ -29,7 +29,6 @@ function Examples() {
   return (
     <Section id="examples" title="Examples">
       <Tabs
-        ButtonsWrapper="menu"
         buttons={
           <>
             <TabButton
