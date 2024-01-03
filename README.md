@@ -6,7 +6,6 @@ Developed by Grace Chen Abudi 👩🏽‍💻
 
 - Intro
 - Technologies & Techniques
-- React Core Concepts
 
 ---
 
@@ -20,12 +19,12 @@ This is a practice project that will showcase the core concept of React essentia
 - JavaScript
 - State Management
 
-## React Core Concepts:
+<!-- ## React Core Concepts:
 
 - Building User Interfaces with **_Components_**
 - Using, Sharing & Outputting **_Data_**
 - Handling User **_Events_**
-- Building Interactive UIs with **_State_**
+- Building Interactive UIs with **_State_** -->
 
 ---
 
